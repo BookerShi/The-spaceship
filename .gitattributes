@@ -1,5 +1,3 @@
-*.py linguist-language = python
-*.png linguist-language = python
-*.wav linguist-language = python
-*.pyc linguist-language = python
-*.html linguist-language = python
+*.js linguist-language=java
+*.css linguist-language=java
+*.html linguist-language=java
