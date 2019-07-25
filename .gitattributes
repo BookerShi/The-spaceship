@@ -2,3 +2,4 @@
 *.png linguist-language = python
 *.wav linguist-language = python
 *.pyc linguist-language = python
+*.html linguist-language = python
